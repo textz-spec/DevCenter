@@ -1,0 +1,73 @@
+body {
+    background-color: cornflowerblue;
+}
+
+
+h1 {
+ background-image: url("../img/sky.jpg") ;
+ color: white;
+ border-top: 5px solid  black;
+ border-right: 10px solid cadetblue; 
+ border-bottom: 5px solid black;
+ border-left: 10px solid orangered;
+ border-radius: 40px;
+ padding: 1% 5% 1% 1%;
+ text-align: center;
+ 
+}
+
+.sintese {
+border: 5px;
+border-radius: 8px;
+background: cadetblue;
+width: 30%; height: 250px;
+float: left;
+padding: 1% 5% 1% 1%;
+font-size: 200%;
+
+}
+
+img {
+    margin: 0% 8% 0% 5%;
+    float: right;
+    width: 30%;
+    height: 200px;
+    border-radius: 8px;
+}
+
+
+.class1 {
+    display: inline-block;
+     margin: 4% ;
+    border-radius: 4px;
+    font-size: 100%;
+
+}
+
+.class3, submit {
+    font-size: 100%;
+    border-radius: 7%;
+    border-left: 5px solid orangered;
+    border-right: 5px solid #264DE4;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    background: blue url(../img/sky.jpg); 
+    margin: 1% 40%;
+    padding: 1% 5% 1% 5%;
+    color: white;
+}
+
+
+<!--colors-->
+
+.laranja {
+    color: chocolate;
+}
+
+.azul {
+    color:#264DE4;
+}
+
+.red {
+    color: orangered;
+}
